@@ -7,7 +7,7 @@
 
 > Second-year  undergraduate | IIIT Allahabad | Hackathon builder | ML & Web dev enthusiast
 
-I build practical tools that solve real problems — web apps, ML/AI prototypes, and developer tooling.  
+I build practical tools that solve real problems  web apps, ML/AI prototypes, and developer tooling.  
 Currently focused on **Python (ML)** + **React/Node** stacks,.
 ---
 
