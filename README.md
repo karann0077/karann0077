@@ -5,26 +5,16 @@
 
 # 👋 Hey, I'm Karan Raj
 
-> Second-year IT undergraduate | IIITian | Hackathon builder | ML & Web dev enthusiast
+> Second-year  undergraduate | IIIT Allahabad | Hackathon builder | ML & Web dev enthusiast
 
 I build practical tools that solve real problems — web apps, ML/AI prototypes, and developer tooling.  
-Currently focused on **Python (ML)** + **React/Node** stacks, experimenting with **Rust**, and working on projects like *DeepFake Spotter*, *Yoogle* (custom search), and a *Smart Attendance* system.
-
+Currently focused on **Python (ML)** + **React/Node** stacks,.
 ---
 
 <!-- Social / quick info -->
-[![Website Badge](https://img.shields.io/badge/portfolio-visit-black?style=for-the-badge&logo=google-chrome)](YOUR_PORTFOLIO)
-[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](YOUR_LINKEDIN)
-[![Gmail Badge](https://img.shields.io/badge/Email-grey?style=for-the-badge&logo=gmail)](mailto:YOUR_EMAIL)
-[![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=YOUR_GITHUB_USERNAME.YOUR_GITHUB_USERNAME)](https://github.com/YOUR_GITHUB_USERNAME)
-
----
-
-## 🔭 Current Focus
-- Improving a **DeepFake Spotter** (image-based) — dataset curation, robust features, explainability
-- Building **Yoogle** — a privacy-focused, ranked search engine prototype (backend ranking + frontend)
-- Smart Attendance system (face recognition + passive liveness + Excel-backed storage)
-- Learning **Rust** and low-level systems programming
+[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/karann0077/)
+[![Gmail Badge](https://img.shields.io/badge/Email-grey?style=for-the-badge&logo=gmail)](mailto:rajkaran3765@gmail.com)
+[![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=YOUR_GITHUB_USERNAME.YOUR_GITHUB_USERNAME)](https://github.com/karann0077)
 
 ---
 
@@ -56,60 +46,53 @@ Currently focused on **Python (ML)** + **React/Node** stacks, experimenting with
 
 ## 📊 GitHub Stats & Activity
 
-<!-- Replace YOUR_GITHUB_USERNAME -->
+
 <p align="left">
-  <img alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=dark" />
-  <img alt="Stats" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=dark&count_private=true" />
+  <img alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=karann0077&layout=compact&theme=dark" />
+  <img alt="Stats" src="https://github-readme-stats.vercel.app/api?username=karann0077&show_icons=true&theme=dark&count_private=true" />
 </p>
 
 <p align="left">
-  <img alt="Streak" src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=dark" />
+  <img alt="Streak" src="https://streak-stats.demolab.com?user=karann007&theme=dark" />
 </p>
 
-![Activity Graph](https://activity-graph.herokuapp.com/graph?username=YOUR_GITHUB_USERNAME&theme=react-dark&hide_border=true)
+![Activity Graph](https://activity-graph.herokuapp.com/graph?username=karann007&theme=react-dark&hide_border=true)
 
 ---
 
 ## 🔎 Featured Projects
 
-> Click any project name to open the repo. Replace links with your real repo links.
-
-### DeepFake Spotter
-**Repo:** `YOUR_GITHUB_USERNAME/DeepFake-Spotter`  
-Short: Image-based deepfake detector — dataset pipeline, CNN/transformer experiments, interpretability.
-
-### Yoogle — Custom Search Engine
-**Repo:** `YOUR_GITHUB_USERNAME/Yoogle`  
-Short: Frontend “search engine”-like UI + backend ranking server to re-rank search results for relevance and privacy.
+### Collaboard
+**Repo:** `karann0077/collabaord`  
+Short: Real-Time Collaborative Whiteboard Platform.
 
 ### Smart Attendance (Flask + face_recognition)
 **Repo:** `YOUR_GITHUB_USERNAME/smart-attendance`  
 Short: Webcam-triggered face recognition attendance, per-date Excel storage, passive blink-liveness check.
 
-### Accessibility Assistant (OCR → NLP → TTS)
-**Repo:** `YOUR_GITHUB_USERNAME/accessibility-assistant`  
-Short: Mobile + desktop helper pipeline to OCR physical docs, summarize, and read out using TTS for visually impaired users.
+### C++ to X86 Compiler
+**Repo:** `karann0077/C-to-X86-Compiler`  
+Short: A lightweight compiler written in C++17 that translates a subset of C++-like syntax into x86 assembly.
 
-*(If you want, I can generate polished `README.md` files for each project above — say the word and tell me which repo to start with.)*
+### CodePilot
+**Repo:** `karann0077/CodePilot`  
+Short:AI-powered developer assistant for learning repo internals, debugging, documentation, and patch generation.
+
 
 ---
 
 ## 🏆 Achievements & Activities
-- Ranked well in **Open Code (IIIT Allahabad)** open-source competition.  
-- Participated in the **Art of Living** campaign under mentor :contentReference[oaicite:0]{index=0}.  
-- Building consistent contributions to open-source & personal projects.
+- ***Specialist on Codeforce*** and ***4 star on codechef*** which shows strong real world problem solving abilities.  
+- Global Rank ***1918*** in ***Meta Hacker Cup***.  
+- Among top ***0.7% in JEE-MAIN*** out of 16 million students.
 
 ---
 
 ## 🎓 Education
-**:contentReference[oaicite:1]{index=1}** — B.Tech (IT), 2nd Year
+**:contentReference[oaicite:1]{index=1}** — B.Tech, 2nd Year ,Indian Institute of Information Technology, Allahabad
 
 ---
 
-## 🤝 Let's connect
-- LinkedIn: [YOUR_LINKEDIN]  
-- Portfolio: [YOUR_PORTFOLIO]  
-- Email: YOUR_EMAIL
 
 ---
 
