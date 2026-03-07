@@ -3,7 +3,7 @@
   Replace placeholders (YOUR_GITHUB_USERNAME, links, and project URLs) with your real values.
 -->
 
-# 👋 Hey, I'm Karan Raj
+# 👋 Hey, I'm Karan Raj #
 
 > Second-year  undergraduate | IIIT Allahabad | Hackathon builder | ML & Web dev enthusiast
 
