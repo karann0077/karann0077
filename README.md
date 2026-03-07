@@ -18,6 +18,8 @@ Currently focused on **Python (ML)** + **React/Node** stacks,.
 
 ---
 
+## 📊 GitHub Stats & Activity
+
 <table>
 <tr>
 <td align="center"><a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api?username=karann0077&show_icons=true&theme=react&border_color=61dafb&include_all_commits=true" width="500"/>
@@ -54,23 +56,7 @@ Currently focused on **Python (ML)** + **React/Node** stacks,.
 ![Postgres](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis)
 
----
 
-## 📊 GitHub Stats & Activity
-
-
-<p align="left">
-  <img alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=karann0077&layout=compact&theme=dark" />
-  <img alt="Stats" src="https://github-readme-stats.vercel.app/api?username=karann0077&show_icons=true&theme=dark&count_private=true" />
-</p>
-
-<p align="left">
-  <img alt="Streak" src="https://streak-stats.demolab.com?user=karann007&theme=dark" />
-</p>
-
-![Activity Graph](https://activity-graph.herokuapp.com/graph?username=karann007&theme=react-dark&hide_border=true)
-
----
 
 ## 🔎 Featured Projects
 
