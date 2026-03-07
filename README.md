@@ -18,6 +18,18 @@ Currently focused on **Python (ML)** + **React/Node** stacks,.
 
 ---
 
+<table>
+<tr>
+<td align="center"><a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api?username=karann0077&show_icons=true&theme=react&border_color=61dafb&include_all_commits=true" width="500"/>
+<td align="center"<a href="(https://git.io/streak-stats" title="Go to Source"><img width="500" src="http://github-readme-streak-stats.herokuapp.com?user=karann0077&theme=react&border=61DAFB&fire=DDB80F"/></a>
+</table>
+ 
+<table>
+<tr>
+</a>
+</table>
+
+
 ## 🛠️ Tech Stack
 
 ### Languages
