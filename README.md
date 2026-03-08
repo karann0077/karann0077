@@ -87,7 +87,7 @@ Short:AI-powered developer assistant for learning repo internals, debugging, doc
 ---
 
 ## 🎓 Education
-**:contentReference[oaicite:1]{index=1}** — B.Tech, 2nd Year ,Indian Institute of Information Technology, Allahabad
+B.Tech, 2nd Year ,Indian Institute of Information Technology, Allahabad
 
 ---
 
