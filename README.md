@@ -2,7 +2,7 @@
 
 <!-- Animated Typing Header -->
 <a href="https://github.com/karann0077">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&pause=1000&color=61DAFB&center=true&vCenter=true&width=600&lines=Hey+there%2C+I'm+Karan+Raj+%F0%9F%91%8B;Builder+%7C+Problem+Solver+%7C+Hacker;ML+%2B+React%2FNode+Enthusiast" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&pause=1000&color=61DAFB&center=true&vCenter=true&width=600&lines=Hey+there%2C+I'm+Karan+Raj+%F0%9F%91%8B" alt="Typing SVG" />
 </a>
 
 <br/>
