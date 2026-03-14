@@ -43,13 +43,13 @@
 
 I build **practical tools that solve real problems** — web apps, ML/AI prototypes, and developer tooling.
 
-- 🎯 Currently focused on **Python (ML)** + **React / Node** stacks
-- 🔭 Exploring **model explainability** techniques for CV models
-- 🤖 Love building small utilities that **automate repetitive tasks**
-- ✍️ Prefer **clean, maintainable code** and readable documentation
-- 🏆 **Specialist** on Codeforces · **4★** on CodeChef
-- 🌏 **Global Rank 1918** in Meta Hacker Cup
-- 📚 **Top 0.7%** in JEE-MAIN out of 16 million students
+-  Currently focused on **Python (ML)** + **React / Node** stacks
+-  Exploring **model explainability** techniques for CV models
+-  Love building small utilities that **automate repetitive tasks**
+-  Prefer **clean, maintainable code** and readable documentation
+-  **Specialist** on Codeforces · **4★** on CodeChef
+-  **Global Rank 1918** in Meta Hacker Cup
+-  **Top 0.7%** in JEE-MAIN out of 16 million students
 
 <br clear="right"/>
 
@@ -122,7 +122,7 @@ I build **practical tools that solve real problems** — web apps, ML/AI prototy
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3 align="center">🖊️ Collaboard</h3>
+      <h3 align="center"> Collaboard</h3>
       <p align="center">
         <a href="https://github.com/karann0077/collabaord">
           <img src="https://img.shields.io/badge/View%20Repo-61DAFB?style=for-the-badge&logo=github&logoColor=black"/>
@@ -131,16 +131,18 @@ I build **practical tools that solve real problems** — web apps, ML/AI prototy
       <p align="center">Real-Time Collaborative Whiteboard Platform built for seamless multi-user canvas collaboration.</p>
     </td>
     <td width="50%" valign="top">
-      <h3 align="center">📸 Smart Attendance</h3>
+      <h3 align="center"> Smart Attendance</h3>
+       <p align="center">
  <a href="https://github.com/karann0077/collaboard">
           <img src="https://img.shields.io/badge/View%20Repo-61DAFB?style=for-the-badge&logo=github&logoColor=black"/>
         </a>
+       </p>
       <p align="center">Webcam-triggered face recognition attendance with per-date Excel storage and passive blink-liveness check.</p>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3 align="center">⚙️ C++ to x86 Compiler</h3>
+      <h3 align="center"> C++ to x86 Compiler</h3>
       <p align="center">
         <a href="https://github.com/karann0077/C-to-X86-Compiler">
           <img src="https://img.shields.io/badge/View%20Repo-61DAFB?style=for-the-badge&logo=github&logoColor=black"/>
@@ -164,15 +166,15 @@ I build **practical tools that solve real problems** — web apps, ML/AI prototy
 
 ---
 
-## 🏆 Achievements
+##  Achievements
 
 <div align="center">
 
-| 🎯 Achievement | 📌 Detail |
+|  Achievement |  Detail |
 |---|---|
-| 💻 Competitive Programming | **Specialist** on Codeforces · **4★** on CodeChef |
-| 🌍 Meta Hacker Cup | **Global Rank 1918** |
-| 🎓 JEE-MAIN | **Top 0.7%** out of 16 million students |
+|  Competitive Programming | **Specialist** on Codeforces · **4★** on CodeChef |
+|  Meta Hacker Cup | **Global Rank 1918** |
+|  JEE-MAIN | **Top 0.7%** out of 16 million students |
 
 </div>
 
@@ -188,13 +190,13 @@ I build **practical tools that solve real problems** — web apps, ML/AI prototy
 
 <div align="center">
 
-### ⚡ Fun Facts
+###  Fun Facts
 
 🔧 I enjoy building small utilities that **automate repetitive tasks**
 &nbsp;·&nbsp;
-📖 I prefer **clean, maintainable code** and readable documentation
+I prefer **clean, maintainable code** and readable documentation
 &nbsp;·&nbsp;
-🔬 Currently exploring **model explainability** techniques for CV models
+ Currently exploring **model explainability** techniques for CV models
 
 <br/>
 
