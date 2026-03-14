@@ -132,9 +132,9 @@ I build **practical tools that solve real problems** — web apps, ML/AI prototy
     </td>
     <td width="50%" valign="top">
       <h3 align="center">📸 Smart Attendance</h3>
-      <p align="center">
-        <img src="https://img.shields.io/badge/Flask%20+%20CV-grey?style=for-the-badge&logo=python&logoColor=white"/>
-      </p>
+ <a href="https://github.com/karann0077/collaboard">
+          <img src="https://img.shields.io/badge/View%20Repo-61DAFB?style=for-the-badge&logo=github&logoColor=black"/>
+        </a>
       <p align="center">Webcam-triggered face recognition attendance with per-date Excel storage and passive blink-liveness check.</p>
     </td>
   </tr>
@@ -149,9 +149,9 @@ I build **practical tools that solve real problems** — web apps, ML/AI prototy
       <p align="center">A lightweight C++17 compiler translating a subset of C++-like syntax into x86 assembly.</p>
     </td>
     <td width="50%" valign="top">
-      <h3 align="center">🤖 CodePilot</h3>
+      <h3 align="center">codEase</h3>
       <p align="center">
-        <a href="https://github.com/karann0077/CodePilot">
+        <a href="https://github.com/karann0077/codEase">
           <img src="https://img.shields.io/badge/View%20Repo-61DAFB?style=for-the-badge&logo=github&logoColor=black"/>
         </a>
       </p>
