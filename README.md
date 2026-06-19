@@ -9,7 +9,7 @@
 
 <!-- Subtitle -->
 <p>
-  <img src="https://img.shields.io/badge/IIIT%20Allahabad-2nd%20Year%20B.Tech-61DAFB?style=flat-square&labelColor=0D1117"/>
+  <img src="https://img.shields.io/badge/IIIT%20Allahabad-3rd%20Year%20B.Tech-61DAFB?style=flat-square&labelColor=0D1117"/>
   &nbsp;
   <img src="https://img.shields.io/badge/Hackathon-Builder-DDB80F?style=flat-square&labelColor=0D1117"/>
   &nbsp;
@@ -142,13 +142,13 @@ I build **practical tools that solve real problems** — web apps, ML/AI prototy
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3 align="center"> C++ to x86 Compiler</h3>
+      <h3 align="center"> PRAVEG </h3>
       <p align="center">
-        <a href="https://github.com/karann0077/C-to-X86-Compiler">
+        <a href="[https://github.com/karann0077/C-to-X86-Compiler](https://github.com/karann0077/PRAVEG)">
           <img src="https://img.shields.io/badge/View%20Repo-61DAFB?style=for-the-badge&logo=github&logoColor=black"/>
         </a>
       </p>
-      <p align="center">A lightweight C++17 compiler translating a subset of C++-like syntax into x86 assembly.</p>
+      <p align="center">Predictive Routing and Violation Enforcement Grid.</p>
     </td>
     <td width="50%" valign="top">
       <h3 align="center">codEase</h3>
