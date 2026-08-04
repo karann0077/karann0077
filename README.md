@@ -144,7 +144,7 @@ I build **practical tools that solve real problems** — web apps, ML/AI prototy
     <td width="50%" valign="top">
       <h3 align="center"> PRAVEG </h3>
       <p align="center">
-        <a href="https://github.com/karann0077/C-to-X86-Compiler](https://github.com/karann0077/PRAVEG">
+        <a href="https://github.com/karann0077/PRAVEG">
           <img src="https://img.shields.io/badge/View%20Repo-61DAFB?style=for-the-badge&logo=github&logoColor=black"/>
         </a>
       </p>
